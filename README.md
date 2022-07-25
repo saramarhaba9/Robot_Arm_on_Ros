@@ -70,3 +70,11 @@ Now the RIVZ has opened, you can observe a robot arm simulation.
 ![Rivz ](https://user-images.githubusercontent.com/56765097/180605347-fd1ab6f7-5dbd-44e1-9dee-7f665c7a37f1.png)
 
 
+To open Gazebo 
+          roslaunch robot_arm_pkg check_motors_gazebo.launch
+          
+          
+          
+![gazebo](https://user-images.githubusercontent.com/56765097/180739324-a0dd9b97-0414-4cda-986a-e6b467c8a89b.png)
+
+
